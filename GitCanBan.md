@@ -440,6 +440,7 @@ Thứ tự thường dùng:
 - Xem nhánh hiện tại
 - Các khu vực Changes / Staged Changes
 - Khôi phục Staged Changes về Changes
+## test fix conflig
 - Thêm Changes vào Staged Changes
 - Add, Commit, Push
 - Cài Gitlens extension
